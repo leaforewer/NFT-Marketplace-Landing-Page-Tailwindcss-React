@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/NFT-Marketplace-Landing-Page-Tailwindcss-React/static/css/main.5e036831.css",
-    "main.js": "/NFT-Marketplace-Landing-Page-Tailwindcss-React/static/js/main.3da8dc88.js",
+    "main.css": "/NFT-Marketplace-Landing-Page-Tailwindcss-React/static/css/main.00993e90.css",
+    "main.js": "/NFT-Marketplace-Landing-Page-Tailwindcss-React/static/js/main.fd7a7578.js",
     "static/js/787.abaa7ba3.chunk.js": "/NFT-Marketplace-Landing-Page-Tailwindcss-React/static/js/787.abaa7ba3.chunk.js",
     "static/media/Item2.png": "/NFT-Marketplace-Landing-Page-Tailwindcss-React/static/media/Item2.469c795c4059ca9a2724.png",
     "static/media/Right-ColorPalette.png": "/NFT-Marketplace-Landing-Page-Tailwindcss-React/static/media/Right-ColorPalette.ec214b9f4ff6addc3f07.png",
@@ -42,12 +42,12 @@
     "index.html": "/NFT-Marketplace-Landing-Page-Tailwindcss-React/index.html",
     "static/media/Frame.svg": "/NFT-Marketplace-Landing-Page-Tailwindcss-React/static/media/Frame.d5f7a964611267e89aab58e5f60f14f8.svg",
     "static/media/Frame2.svg": "/NFT-Marketplace-Landing-Page-Tailwindcss-React/static/media/Frame2.2845a6520d6fc5568a12769637eb1d3f.svg",
-    "main.5e036831.css.map": "/NFT-Marketplace-Landing-Page-Tailwindcss-React/static/css/main.5e036831.css.map",
-    "main.3da8dc88.js.map": "/NFT-Marketplace-Landing-Page-Tailwindcss-React/static/js/main.3da8dc88.js.map",
+    "main.00993e90.css.map": "/NFT-Marketplace-Landing-Page-Tailwindcss-React/static/css/main.00993e90.css.map",
+    "main.fd7a7578.js.map": "/NFT-Marketplace-Landing-Page-Tailwindcss-React/static/js/main.fd7a7578.js.map",
     "787.abaa7ba3.chunk.js.map": "/NFT-Marketplace-Landing-Page-Tailwindcss-React/static/js/787.abaa7ba3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e036831.css",
-    "static/js/main.3da8dc88.js"
+    "static/css/main.00993e90.css",
+    "static/js/main.fd7a7578.js"
   ]
 }
