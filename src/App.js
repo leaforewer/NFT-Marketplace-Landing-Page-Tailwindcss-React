@@ -963,7 +963,7 @@ function App() {
             </div>
           </div>
           <div id="card-wrapper" className="mt-36 2xl:px-24 block">
-            <div className="flex flex-col gap-16 px-3 lg:px-0 mx-auto justify-center w-full lg:flex-row lg:gap-4 lg:h-128">
+            <div className="flex flex-col gap-16 px-3 lg:px-0 mx-auto justify-center w-full lg:flex-row lg:gap-4 lg:h-100 2xl:h-128">
               <div className="card-body border border-gray-900 overflow-hidden h-full relative rounded-xl snap-center p-6 basis-1/3  flex flex-col justify-center">
                 <h4 className="text-2xl text-white mt-4 mb-6 font-Sora font-normal tracking-wider">
                   Check out the <br /> hottest Sale offers
@@ -1072,13 +1072,13 @@ function App() {
                     </div>
                   </div>
                 </div>
-                <button className="w-full bg-midnight relative z-20 text-slate-500 font-Sora text-sm mt-10 py-3 rounded-xl font-bold cursor-pointer transition-all hover:scale-90 border-2 border-slate-700">
+                <button className="w-full bg-midnight relative z-20 text-slate-500 font-Sora text-sm mt-10 lg:mt-auto mb-5 py-3 rounded-xl font-bold cursor-pointer transition-all hover:scale-90 border-2 border-slate-700">
                   Show me more
                 </button>
               </div>
               <div
                 id="card-2"
-                className="card-body relative rounded-xl border border-gray-900 bg-midnight snap-center p-3 basis-1/3 h-full flex flex-col justify-center items-start gap-0"
+                className="card-body relative rounded-xl border border-gray-900 bg-midnight snap-center p-3 basis-1/3 h-full min-h-full flex flex-col justify-center items-start gap-0"
               >
                 <div className="relative sm:left-1/4 lg:left-2.5 -top-24 lg:-top-16 z-10 -mb-24">
                   <img
@@ -1101,12 +1101,12 @@ function App() {
                   </button>
                 </div>
               </div>
-              <div className="card-body border border-gray-900 rounded-xl px-8 py-4 basis-1/3 h-full flex flex-col justify-start">
-                <h3 className="mt-6 text-white text-xl md:text-2xl font-Sora">
+              <div className="card-body border border-gray-900 rounded-xl px-8 py-4 basis-1/3 h-full flex flex-col justify-center lg:justify-start">
+                <h3 className="mt-6 text-white text-xl md:text-2xl font-Sora text-center lg:text-start">
                   Top NFT at a lower
                   <br className="hidden lg:block" /> price
                 </h3>
-                <div className="flex flex-row gap-4 mt-7">
+                <div className="flex flex-row gap-4 mx-auto lg:mx-0 mt-7">
                   <img
                     className="aspect-square	rounded-2xl"
                     alt="Card item"
@@ -1142,7 +1142,7 @@ function App() {
                     </div>
                   </div>
                 </div>
-                <div className="flex flex-row gap-4 mt-4">
+                <div className="flex flex-row gap-4 mx-auto lg:mx-0 mt-4">
                   <img
                     className="aspect-square	rounded-2xl"
                     alt="Card item"
@@ -1178,7 +1178,7 @@ function App() {
                     </div>
                   </div>
                 </div>
-                <div className="flex flex-row gap-4 mt-4">
+                <div className="flex flex-row gap-4 mx-auto lg:mx-0 mt-4">
                   <img
                     className="aspect-square	rounded-2xl"
                     alt="Card item"
@@ -1214,7 +1214,7 @@ function App() {
                     </div>
                   </div>
                 </div>
-                <div className="flex flex-row gap-4 mt-4">
+                <div className="flex flex-row gap-4 mx-auto lg:mx-0 mt-4">
                   <img
                     className="aspect-square	rounded-2xl"
                     alt="Card item"
@@ -1250,7 +1250,7 @@ function App() {
                     </div>
                   </div>
                 </div>
-                <button className="w-full text-slate-500 font-Sora text-sm mt-6 py-3 rounded-xl font-bold cursor-pointer transition-all hover:scale-90 border-2 border-slate-700">
+                <button className="w-full text-slate-500 font-Sora text-sm mt-10 lg:mt-auto mb-7 py-3 rounded-xl font-bold cursor-pointer transition-all hover:scale-90 border-2 border-slate-700">
                   Show me more
                 </button>
               </div>
